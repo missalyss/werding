@@ -50,6 +50,12 @@ pre {
   line-height: 18.5714px;
 }
 
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
 .container {
   margin: 36px;
   background-color: floralwhite;
