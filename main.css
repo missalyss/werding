@@ -1,28 +1,49 @@
 body {
   background-color: steelblue;
   font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif;
+  font-style: normal;
+  font-variant: normal;
 }
 
 h1 {
-  font-size: 36px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px;
+  text-align: center;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 26.4px;
+  padding-bottom: 16px;
+  border-bottom: 1px darkgray solid;
 }
 
 h3 {
-  font-size: 20px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px;
+  text-align: center;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 15.4px;
+  padding: 16px;
+  border-bottom: 1px darkgray solid;
+  margin: auto;
+  width: 70%;
+
 }
 
 p {
-  font-size: 18px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 20px;
 }
 
 
 blockquote {
-  font-size: 21px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 30px;
+  font-size: 21px;
+  font-weight: 400;
+  line-height: 30px;
 }
 
 
 pre {
-  font-size: 13px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 18.5714px;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 18.5714px;
 }
 
 .container {
