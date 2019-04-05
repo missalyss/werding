@@ -36,6 +36,10 @@ p {
   text-align: center;
 }
 
+.bold {
+  font-weight: 900;
+  font-size: 20px;
+}
 
 a {
   font-size: 20px;
